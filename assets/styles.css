@@ -1,0 +1,70 @@
+#nprogress .bar {
+    background:#00CED1;
+    box-shadow: 0 0 10px #00CED1;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.Fixes-1 {
+    font-family: 'Lato', lato, sans-serif;
+    font-weight: 400;
+}
+
+.Fixes-2 {
+    background-color:#FFFFFF;
+    color:#000000
+}
+
+.Fixes-3 {
+    grid-template-columns: auto auto auto;
+}
+
+.Fixes-4 {
+    height: 80px;
+}
+
+.Fixes-5 {
+    height: 40px;
+}
+
+.Fixes-6 {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+.Fixes-7 {
+    color:#FFFFFF
+}
+
+.Fixes-8 {
+    background:#FF9933;
+    border-radius: 8px;
+    color:#111827;
+    border: 2px solid #FF9933
+}
+
+.Fixes-9 {
+    color:#111827;
+    font-family: Arvo, 'Arvo' ,serif;
+    font-weight: 400;
+}
+
+.Fixes-10 {
+    color: #000000;
+}
+
+.Fixes-11 {
+    color: #111827;
+}
+
+.Fixes-12 {
+    background-color: #F3F4F6;
+    min-height:calc(100vh - 0px);
+}
+
+.Fixes-13 {
+    background-color: #00CED1;
+    min-height:calc(240px - 0px);
+}
